@@ -1,4 +1,4 @@
-# funko_dolls_store
+# Funko_dolls_store
 
 <h2> Welcome to this repository
 
